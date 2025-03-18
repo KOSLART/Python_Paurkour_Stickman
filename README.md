@@ -3,3 +3,5 @@ A very simple game that I developed in Python, in the game you need to jump on p
 He helped me create the game "DeepSeek" And "ChatGPT" 
 ChatGPT- https://chatgpt.com
 DeepSeek- https://www.deepseek.com
+
+My discord - https://discord.gg/kbtaHPUfdN
